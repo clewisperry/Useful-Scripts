@@ -7,6 +7,7 @@
 // @match        https://nautobot.service.dev.itauto.nvidia.com/dcim/devices/import/child-devices/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=nvidia.com
 // @grant        none
+//test update url
 // ==/UserScript==
 
 (function() {
